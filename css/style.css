@@ -1,0 +1,17 @@
+/*.ember-application {
+    margin: 20px;
+}*/
+
+.todo-item {
+    padding: 10px;
+    border: 1px solid #eee;
+}
+
+.is-done{
+    text-decoration:line-through;
+    color: #ccc;
+}
+
+.clickable {
+    cursor: pointer;
+}
